@@ -1,1 +1,1 @@
-# openIMSCore
+# openIMSCore School Project
