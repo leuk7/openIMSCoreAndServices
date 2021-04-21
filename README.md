@@ -100,7 +100,7 @@ In this tutorial we can use two (02) types of architecture for our servers:
 **Note:** The distributed architecutre require more power, so be sure that you have enough. 
 
 ### Standalone installation
-[Installation of IMS network core.pdf](https://github.com/leuk7/openIMSCore/files/6347737/Installation.of.IMS.network.core.pdf)
+[Installation of IMS network core.pdf](https://github.com/leuk7/openIMSCore/files/6347771/Installation.of.IMS.network.core.pdf)
 
 ### Distributed installation
 [Distributed Installation of IMS Network Core.pdf](https://github.com/leuk7/openIMSCore/files/6347738/Distributed.Installation.of.IMS.Network.Core.pdf)
