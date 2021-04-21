@@ -86,7 +86,7 @@ Its performance allows it to deal with operational burdens, such as broken netwo
 SER’s configuration ability meets needs of a whole range of scenarios including small-office use, enterprise PBX replacements and carrier services
 
 #### MySQL
-is a relational database management system (RDBMS). It is distributed under a dual GPL and proprietary license. It is one of the most widely used database management software in the world.
+MySQL is a relational database management system (RDBMS). It is distributed under a dual GPL and proprietary license. It is one of the most widely used database management software in the world.
 Since May 2009, its creator Michael Widenius has created MariaDB (Maria is the name of his second daughter) to continue its development as an open source project.
 
 ---
