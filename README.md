@@ -55,13 +55,13 @@ Between MRFC and MRFP, the MEGACO protocol is used.
 The MRFC provides the control of the announcement band messages in the MRFP. The MRFP provides transport, storage and playback of the announcement tapes.
 
 #### AS
- L'AS offre un contexte d'exécution pour les composants applicatifs. Il existe plusieurs types de serveur AS:
+ The AS provides an execution context for application components. There are several types of AS servers:
  
 - SIP AS
 - SSF AS
 - OSA AS
 
-Les AS sont interconnectes au coeur IMS par le biais des interfaces **Sh** vers le HSS, ISCSF et le SCSCF. Les AS permettent d'offrir des services a valeurs ajoutes: Presence, IPTV, messagerie instantane, SMS/USSD, etc. 
+AS are interconnected to the IMS core through **Sh** interfaces to the HSS, ISCSF and SCSCF. The AS allows to offer value-added services: Presence, IPTV, instant messaging, SMS/USSD, etc. 
 
 #### MGCF and IM-MGW
 The MGCF/IM-MGW couple ensures the interfacing of the IMS core with classical TDM (Time Division Multiplexing) networks. 
