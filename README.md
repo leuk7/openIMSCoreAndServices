@@ -6,6 +6,9 @@
 - [General presentation of OpenIMSCore](#general-presentation-of-openimscore)
 - [Installation of IMS network core](#installation-of-ims-network-core)
 - [IMS Client Installation](#ims-client-installation)
+- [Installation of AS](#installation-of-as)
+- [Authors](#authors)
+- [License](#license)
 ---
 ## General presentation of the IMS
 
