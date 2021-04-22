@@ -122,6 +122,11 @@ In this tutorial we can use two (02) types of architecture for our servers:
 ### Installation of a presence server (OpenSIPS)
 [Installation of a presence server.pdf](https://github.com/leuk7/openIMSCore/files/6354924/Installation.of.a.presence.server.pdf)
 
+### Installation of a VoD server (VLC)
+[Installation of a VOD server.pdf](https://github.com/leuk7/openIMSCore/files/6355311/Installation.of.a.VOD.server.pdf)
+
+### Installation of an IPTV server
+
 
 ---
 ## Authors
