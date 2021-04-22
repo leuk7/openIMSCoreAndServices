@@ -120,6 +120,7 @@ For all this tutorial, we will use the standalone architecture.
 ### UCT IMS Client
 [Installation of UCT IMS Client.pdf](https://github.com/leuk7/openIMSCore/files/6354560/Installation.of.UCT.IMS.Client.pdf)
 
+---
 ## Installation of AS
 ### Installation of a presence server (OpenSIPS)
 [Installation of a presence server.pdf](https://github.com/leuk7/openIMSCore/files/6354924/Installation.of.a.presence.server.pdf)
