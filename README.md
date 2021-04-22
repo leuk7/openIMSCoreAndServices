@@ -114,3 +114,18 @@ In this tutorial we can use two (02) types of architecture for our servers:
 
 ### UCT IMS Client
 [Installation of UCT IMS Client.pdf](https://github.com/leuk7/openIMSCore/files/6354560/Installation.of.UCT.IMS.Client.pdf)
+
+## Installation of AS
+### Installation of a presence server (OpenSIPS)
+[Installation of a presence server.pdf](https://github.com/leuk7/openIMSCore/files/6354924/Installation.of.a.presence.server.pdf)
+
+
+---
+## Authors
+SANOU K. Jean Luc
+
+- [LinkedIn](https://www.linkedin.com/in/jean-luc-sanou-59653214b/)
+- [Github](https://github.com/leuk7)
+
+## License
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
