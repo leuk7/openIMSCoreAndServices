@@ -5,6 +5,7 @@
 - [General presentation of the IMS](#general-presentation-of-the-ims)
 - [General presentation of OpenIMSCore](#general-presentation-of-openimscore)
 - [Installation of IMS network core](#installation-of-ims-network-core)
+- [IMS Client Installation](#ims-client-installation)
 ---
 ## General presentation of the IMS
 
@@ -103,9 +104,13 @@ In this tutorial we can use two (02) types of architecture for our servers:
 [Installation of IMS network core.pdf](https://github.com/leuk7/openIMSCore/files/6347771/Installation.of.IMS.network.core.pdf)
 
 ### Distributed installation
-[Distributed Installation of IMS Network Core.pdf](https://github.com/leuk7/openIMSCore/files/6347738/Distributed.Installation.of.IMS.Network.Core.pdf)
+[Distributed Installation of IMS Network Core.pdf](https://github.com/leuk7/openIMSCore/files/6354493/Distributed.Installation.of.IMS.Network.Core.pdf)
 
 
+---
+## IMS Client Installation
+### Monster IMS
+[Installation of IMS Monster.pdf](https://github.com/leuk7/openIMSCore/files/6354477/Installation.of.IMS.Monster.pdf)
 
-
-
+### UCT IMS Client
+[Installation of UCT IMS Client.pdf](https://github.com/leuk7/openIMSCore/files/6354560/Installation.of.UCT.IMS.Client.pdf)
