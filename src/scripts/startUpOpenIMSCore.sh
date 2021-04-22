@@ -23,4 +23,3 @@ gnome-terminal \
 --tab -e "bash -c 'cd /opt/OpenIMSCore && sudo ./icscf.sh';bash" \
 --tab -e "bash -c 'cd /opt/OpenIMSCore && sudo ./scscf.sh';bash" \
 --tab -e "bash -c 'cd /opt/OpenIMSCore/FHoSS/deploy && ./startup.sh';bash"
-
