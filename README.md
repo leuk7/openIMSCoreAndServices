@@ -136,7 +136,7 @@ For the whole tutorial, we will use the standalone architecture.
 ## Authors
 SANOU K. Jean Luc
 
-- [LinkedIn](https://www.linkedin.com/in/jean-luc-sanou-59653214b/)
+- [LinkedIn](https://www.linkedin.com/in/jean-luc-sanou/)
 - [Github](https://github.com/leuk7)
 
 ## License
